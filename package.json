@@ -1,5 +1,5 @@
 {
-  "name": "panther",
+  "name": "panther-comment",
   "version": "0.0.1",
   "description": "Drawing stream comment on background of web page.",
   "main": "index.js",

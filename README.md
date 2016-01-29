@@ -1,4 +1,4 @@
-Panther
+Panther Comment
 ====
 
 Drawing stream comment on background of web page.
