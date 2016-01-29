@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/sota1235/Panther/issues"
   },
-  "homepage": "https://github.com/sota1235/Panther#readme"
+  "homepage": "https://github.com/sota1235/Panther#readme",
+  "dependencies": {
+    "jquery": "^2.2.0",
+    "lodash": "^4.0.1"
+  }
 }
