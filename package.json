@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/sota1235/Panther#readme",
   "dependencies": {
+    "es6-promise": "^3.0.2",
     "jquery": "^2.2.0",
     "lodash": "^4.0.1"
   }
