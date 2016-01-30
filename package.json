@@ -1,6 +1,6 @@
 {
   "name": "panther-comment",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Drawing stream comment on background of web page.",
   "main": "index.js",
   "files": [
